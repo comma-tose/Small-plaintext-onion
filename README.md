@@ -7,7 +7,7 @@ I made this purely for the fun. There is no reason for this site to exist, it ju
 
 Installing:
 This website doesn't need to be installed in a specific way, it's just a static webpage that can be ran however you would like. Here's how I set it up:
-~~*The homepage is at /home/nonadmin/web/index.html, darkhttpd is sharing /home/nonadmin/web over port 8080, and Tor is running the site with traffic forwarded to port 8080.*~~this is irrelevant now as I am completely reworking the server's software Once again, you can configure and host it however you would like.
+~~*The homepage is at /home/nonadmin/web/index.html, darkhttpd is sharing /home/nonadmin/web over port 8080, and Tor is running the site with traffic forwarded to port 8080.*~~ this is irrelevant now as I am completely reworking the server's software Once again, you can configure and host it however you would like.
 
 
 Additional notes:
